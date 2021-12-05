@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learning2</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Pasword</string>
+    <string name="email">Email \n</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+</resources>
